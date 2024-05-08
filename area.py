@@ -5,6 +5,3 @@ print("Base of triangle is", base)
 print("Height of triangle is", height)
 area = 1 / 2 * (base * height)
 print("Area of triangle is", area)
-#
-#
-#
